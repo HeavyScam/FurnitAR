@@ -21,7 +21,7 @@ Our application can also be used to get readings in metric units to bring back u
 - [**Unity App**](https://github.com/HeavyScam/FurnitAR-Unity)
 - [**Frontend**](https://github.com/HeavyScam/furnitar-front)
 - [**Backend**](https://github.com/HeavyScam/furnitar-back)
-- [**Web Scrapping](https://github.com/HeavyScam/FurnitAR_Scrape)
+- [**Web Scrapping**](https://github.com/HeavyScam/FurnitAR_Scrape)
 
 # Features
 - Measure Length , Breadth and Height of a space in a room using our interative AR measure tool.
