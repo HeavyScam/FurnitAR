@@ -35,16 +35,12 @@ We can make it freemium App in which a user can make only certain number of requ
 ## MODEL 2:
 We can make it a free app in which a user can make any number of request. We can add affiliate link and also with their search information data we can show them personalized ad and generate revenue. 
 
-# Requirements
-
 
 # Tech Stack
 - NodeJS
 - Python
 - Unity
 - ReactJS
-
-# Installation Guide to Run Locally
 
 
 # Future Implementations
