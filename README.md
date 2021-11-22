@@ -9,36 +9,47 @@
 
 
 # Introduction
-
+Have you ever faced problems while furniture shopping online? Faced the pain of manually designing and measuring your furniture placing ideas?  What about the inconvinience of liking a product online just to find out they wont fit or are too small? We present to you **FurnitAR**, your one stop solution to solve all your problems and hassles related to online furniture shopping!
 
 # About FurintAR
+Using **FurnitAR** users would be able to measure real-world objects or even space by simply pointing your phone’s camera at the given item using Augmented Reality(AR) technology. 
+The measurements which are taken using AR will be used to display the relevant options of furniture which can be purchased from various E-commerce websites.
+Our application can also be used to get readings in metric units to bring back up when you’re at IKEA later on.
 
 # Links to repos
+- [**Unity App**](https://github.com/HeavyScam/FurnitAR-Unity)
 - [**Frontend**](https://github.com/HeavyScam/furnitar-front)
 - [**Backend**](https://github.com/HeavyScam/furnitar-back)
-- [**Unity**](https://github.com/HeavyScam/FurnitAR-Unity)
+- [**Web Scrapping](https://github.com/HeavyScam/FurnitAR_Scrape)
 
 # Features
-
+- Measure Length , Breadth and Height of a space in a room using our interative AR measure tool.
+- Custom api that provides furniture data (product description, image, price and product URL) from different websites.
+- Fetch all furniture for given lenght ,breadth and height
+- View a 3d model to get an estimate as to how it would look
 
 # Buisness Model
 ## MODEL 1:
-
+We can make it freemium App in which a user can make only certain number of request after limit exceed they have to pay for subscription.
 
 ## MODEL 2:
-
+We can make it a free app in which a user can make any number of request. We can add affiliate link and also with their search information data we can show them personalized ad and generate revenue. 
 
 # Requirements
 
 
 # Tech Stack
-
+- NodeJS
+- Python
+- Unity
+- ReactJS
 
 # Installation Guide to Run Locally
 
 
 # Future Implementations
-
+- Creating a large database of furniture
+- Integrating a 3d model for each furniture type 
 
 # Contributors
 <table>
